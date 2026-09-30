@@ -100,4 +100,4 @@ Most of the data is downloaded automatically except for the two SAP files, that 
 
 ## AI use
 
-Generative AI was used to check grammar, find relevant sources and to structure this LATEX document, For the programming part, I used generative AI to look up syntax, debug errors and to generate plots. All scientific arguments and final conclusions are my own.
+Generative AI was used to check grammar, find relevant sources and for formatting this LATEX document. For the programming part, I used generative AI to look up syntax, debug errors and to generate graphs. All scientific arguments and final conclusions are my own.

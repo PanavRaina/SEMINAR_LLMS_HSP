@@ -100,4 +100,4 @@ Most of the data is downloaded automatically except for the two SAP files, that 
 
 ## AI use
 
-Generative AI was used for grammar checking, finding sources, debugging, and code review. It was also used to suggest and help implement parts of the statistical analysis (bootstrap slope test, frequency check, excess-confidence and permutation tests) and the figures. The research question, interpretation of results and the written report are my own. See the AI declaration in the report.
+Generative AI was used to check grammar, find relevant sources and to structure this LATEX document, For the programming part, I used generative AI to look up syntax, debug errors and to generate plots. All scientific arguments and final conclusions are my own.
